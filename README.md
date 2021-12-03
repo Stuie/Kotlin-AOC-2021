@@ -1,8 +1,10 @@
 # Kotlin-AOC-2021
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [stuie][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+Welcome to the Advent of Code[^aoc] Kotlin project created by [Stuie][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
-In this repository, stuie is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+In this repository, Stuie is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+
+Come watch him bang his head against his desk on [Twitch][twitch]!
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
@@ -23,3 +25,4 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 [kotlin]: https://kotlinlang.org
 [slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
+[twitch]: https://www.twitch.tv/essteeyou
