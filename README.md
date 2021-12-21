@@ -20,7 +20,7 @@ Part 3 (1:32:56) - Day 5
 
 [![Part 3](https://img.youtube.com/vi/AALoWV8cdZs/0.jpg)][yt3]
 
-Part 4 - Days 6 and 7
+Part 4 (1:36:10) - Days 6 and 7
 
 [![Part 4](https://img.youtube.com/vi/mYbz7LR1WlE/0.jpg)][yt4]
 
