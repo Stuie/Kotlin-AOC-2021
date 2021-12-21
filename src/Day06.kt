@@ -1,5 +1,3 @@
-import java.math.BigInteger
-
 const val D6_INPUT_FILE = "Day06"
 
 fun main() {
