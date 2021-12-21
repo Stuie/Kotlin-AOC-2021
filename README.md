@@ -6,12 +6,23 @@ In this repository, Stuie is about to provide solutions for the puzzles using [K
 
 Come watch him bang his head against his desk on [Twitch][twitch]!
 
-If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
+# Videos on YouTube
 
-- [Kotlin docs][docs]
-- [Kotlin Slack][slack]
-- Template [issue tracker][issues]
+Part 1 (3:43:44) - Days 1-3
 
+[![Part 1](https://img.youtube.com/vi/VGjzPp7qeQs/0.jpg)][yt1]
+
+Part 2 (1:20:20) - Day 4
+
+[![Part 2](https://img.youtube.com/vi/ROv3Bn1oNMI/0.jpg)][yt2]
+
+Part 3 (1:32:56) - Day 5
+
+[![Part 3](https://img.youtube.com/vi/AALoWV8cdZs/0.jpg)][yt3]
+
+Part 4 - Days 6 and 7
+
+[![Part 4](https://img.youtube.com/vi/mYbz7LR1WlE/0.jpg)][yt4]
 
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
@@ -26,3 +37,7 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 [slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
 [twitch]: https://www.twitch.tv/essteeyou
+[yt1]: https://youtu.be/VGjzPp7qeQs
+[yt2]: https://youtu.be/ROv3Bn1oNMI
+[yt3]: https://youtu.be/AALoWV8cdZs
+[yt4]: https://youtu.be/mYbz7LR1WlE
